@@ -10,7 +10,9 @@ Highlights of my career:
 - Predicted unconventional correlation between electron beam properties and laser intensity used for photoemission using Monte Carlo methods and Boltzmann equations (+200 citations).
 
 Website: https://utilmon.github.io/
+
 GitHub: https://github.com/utilmon
+
 Google Scholar: https://scholar.google.com/citations?user=WmYfAsYAAAAJ
 
 <!--
