@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Cornell Ph.D. Physicist experienced in automating complex metrology workflows through custom computer vision solutions. Proven ability to architect end-to-end ML pipelines that handle high-volume data streams. Aiming to apply rigorous problem-solving skills to build reliable, scalable machine learning infrastructure
+I'm a Cornell Ph.D. Physicist experienced in automating complex metrology workflows through custom computer vision solutions. Proven ability to architect end-to-end ML pipelines that handle high-volume data streams. Aiming to apply rigorous problem-solving skills to build reliable, scalable machine learning infrastructure
 
 Highlights of my career:
 
